@@ -1,6 +1,8 @@
 
-# פרויקט סוכן CLI חכם (Smart CLI Agent) **מטרה:** בניית סוכן מבוסס בינה מלאכותית הממיר בקשות בשפה טבעית לפקודות Windows CLI, תוך מתן דגש מחמיר על בטיחות וניהול סיכונים. **[תיעוד ניסויים ומדדים (Google Sheets)](https://docs.google.com/spreadsheets/d/1UqsjkkB372gfAby7IvLB0XIZY-38BRw-PrNTUSfFLmw/edit?gid=0#gid=0)**
 
+# פרויקט סוכן CLI חכם (Smart CLI Agent)
+**מטרה:** בניית סוכן מבוסס בינה מלאכותית הממיר בקשות בשפה טבעית לפקודות Windows CLI, תוך מתן דגש מחמיר על בטיחות וניהול סיכונים.
+**[תיעוד ניסויים ומדדים (Google Sheets)](https://docs.google.com/spreadsheets/d/1UqsjkkB372gfAby7IvLB0XIZY-38BRw-PrNTUSfFLmw/edit?gid=0#gid=0)**
 
 סיכום תהליך השיפור (Iteration Log)
 
