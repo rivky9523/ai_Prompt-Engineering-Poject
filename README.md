@@ -1,7 +1,7 @@
 פרויקט סוכן CLI חכם
 מטרה: בניית סוכן שממיר שפה טבעית לפקודות Windows תוך שמירה על בטיחות.
 
-קישור לתיעוד הניסויים (Google Sheets): (https://docs.google.com/spreadsheets/d/1DAgX__Cgl_WSB1SOFs-Rovg2O6U4olayG6cwaQQSrBY/edit?gid=0#gid=0)
+קישור לתיעוד הניסויים (Google Sheets): (https://docs.google.com/spreadsheets/d/1UqsjkkB372gfAby7IvLB0XIZY-38BRw-PrNTUSfFLmw/edit?gid=0#gid=0)
 
 סיכום תהליך השיפור (Iteration Log)
 
